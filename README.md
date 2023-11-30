@@ -2,6 +2,8 @@
 Databricks ETL (Extract Transform Load) Pipeline
 [![CI](https://github.com/adlerviton/Databricks_ETL_Pipeline/actions/workflows/python.yml/badge.svg)](https://github.com/adlerviton/Databricks_ETL_Pipeline/actions/workflows/python.yml)
 
+Video link: https://youtu.be/pqvg7FXAjsU
+
 ## Background:
 #### Purpose
 This project aims to perform ETL operations with a pipeline on Databricks using Spark SQL. This will allow for frequently changing data to be frequently ingested to a database and automatically analyzed in real-time or on a scheduled basis. Each of the following scripts are held in the ETL_Databricks_Notebooks folder and represent separate databricks notebooks. 
