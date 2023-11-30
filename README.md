@@ -4,7 +4,7 @@ Databricks ETL (Extract Transform Load) Pipeline
 
 ## Background:
 #### Purpose
-This project aims to perform ETL operations with a pipeline on Databricks using Spqrk SQL. This will allow for frequently changing data to be frequently ingested to a database and automatically analyzed in real-time or on a scheduled basis. Each of the following scripts are held in the ETL_Databricks_Notebooks folder and represent separate databricks notebooks. 
+This project aims to perform ETL operations with a pipeline on Databricks using Spark SQL. This will allow for frequently changing data to be frequently ingested to a database and automatically analyzed in real-time or on a scheduled basis. Each of the following scripts are held in the ETL_Databricks_Notebooks folder and represent separate databricks notebooks. 
 
 #### Advantages of Delta Lake for data storage
 Using a Delta Lake, a storage layer that sits atop a data lake, gives the following additional benefits:
