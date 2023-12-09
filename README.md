@@ -1,5 +1,4 @@
 # Mini project 10 - Pyspark Data Processing with Databricks
-
 [![CI](https://github.com/adlerviton/Pyspark_Data_Processing/actions/workflows/python.yml/badge.svg)](https://github.com/adlerviton/Pyspark_Data_Processing/actions/workflows/python.yml)
 
 ## Background:
